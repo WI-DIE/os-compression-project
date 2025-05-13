@@ -1,0 +1,45 @@
+[Child] PID: 100899 | TID: 100899 (자식 프로세스 생성됨)
+[Child] PID: 100900 | TID: 100900 (자식 프로세스 생성됨)
+[Child] PID: 100901 | TID: 100901 (자식 프로세스 생성됨)
+[Child] PID: 100902 | TID: 100902 (자식 프로세스 생성됨)
+[Child] PID: 100903 | TID: 100903 (자식 프로세스 생성됨)
+[Child] PID: 100904 | TID: 100904 (자식 프로세스 생성됨)
+[Child] PID: 100905 | TID: 100905 (자식 프로세스 생성됨)
+[Child] PID: 100906 | TID: 100906 (자식 프로세스 생성됨)
+[Child] PID: 100907 | TID: 100907 (자식 프로세스 생성됨)
+[Child] PID: 100908 | TID: 100908 (자식 프로세스 생성됨)
+[Child] PID: 100909 | TID: 100909 (자식 프로세스 생성됨)
+[Child] PID: 100910 | TID: 100910 (자식 프로세스 생성됨)
+[Child] PID: 100911 | TID: 100911 (자식 프로세스 생성됨)
+[Child] PID: 100912 | TID: 100912 (자식 프로세스 생성됨)
+[Child] PID: 100913 | TID: 100913 (자식 프로세스 생성됨)
+[Child] PID: 100914 | TID: 100914 (자식 프로세스 생성됨)
+[Parent] PID: 100898 | TID: 100898 (부모 프로세스)
+
+=== 성능 측정 결과 ===
+총 실행 시간: 0.003623초
+Voluntary Context Switches   : 2
+Involuntary Context Switches : 3
+	Command being timed: "./compressor test_input.txt output16.txt 16"
+	User time (seconds): 0.00
+	System time (seconds): 0.00
+	Percent of CPU this job got: 75%
+	Elapsed (wall clock) time (h:mm:ss or m:ss): 0:00.00
+	Average shared text size (kbytes): 0
+	Average unshared data size (kbytes): 0
+	Average stack size (kbytes): 0
+	Average total size (kbytes): 0
+	Maximum resident set size (kbytes): 1792
+	Average resident set size (kbytes): 0
+	Major (requiring I/O) page faults: 0
+	Minor (reclaiming a frame) page faults: 741
+	Voluntary context switches: 19
+	Involuntary context switches: 9
+	Swaps: 0
+	File system inputs: 0
+	File system outputs: 8
+	Socket messages sent: 0
+	Socket messages received: 0
+	Signals delivered: 0
+	Page size (bytes): 4096
+	Exit status: 0
