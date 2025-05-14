@@ -1,0 +1,1 @@
+step 4는 compressor_threaded와 main_threaded를 컴파일해야함
